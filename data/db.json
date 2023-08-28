@@ -2,15 +2,21 @@
   "projects": [
     {
       "id": 1,
-      "title": "Create new homepage banner",
+      "title": "Study Vue JS",
       "details": "Lorem ipsum",
-      "complete": false
+      "complete": true
     },
     {
       "id": 2,
-      "title": "Make marketing email",
+      "title": "Make pizza",
       "details": "Lorem ipsum",
       "complete": true
+    },
+    {
+      "title": "Play Metal Gear",
+      "details": "Lorem impsum",
+      "complete": false,
+      "id": 3
     }
   ]
 }
